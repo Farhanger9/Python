@@ -1,2 +1,5 @@
-#Farahang Winter 2020
-print("Hello"  + " " + input ("what is your name? "))
+print("welcome to the name generator")
+city =input("Which did you grow up in? ")
+print(city)
+pet = input("what is your pet name?")
+print( "your band name is " + city +" " + pet)
